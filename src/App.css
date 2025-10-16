@@ -1,0 +1,84 @@
+body{
+  font-family: Oswald, Arial;
+  background-color: rgb(41, 40, 40);
+  color: white;
+  padding-top: 60px;
+}
+
+.statBox{
+  display: grid;
+  grid-template-columns: 100px 100px;
+  margin-bottom: 15px;
+}
+
+input {
+  margin-left: 15px;
+  background-color: rgb(24, 23, 23);
+  color: white;
+  border: none;
+  border-radius: 3px;
+
+}
+
+.weaponsList{
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+  
+}
+
+.statLabel{
+  font-weight: bold;
+}
+
+.header{
+  position: fixed;
+  top: 0;
+  background-color: rgb(32, 31, 31);
+  left: 0;
+  right: 0;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  color: rgb(199, 199, 118);
+  box-shadow: 3px 2px 3px black;
+}
+
+.title{
+  margin-left: 10px;
+  font-size: 20px;
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.weaponImage{
+  height: 60px;
+}
+
+.weaponBox{
+  display: flex;
+  align-items: center;
+  background-color: rgb(61, 59, 59);
+  padding: 20px;
+  border-radius: 10px;
+  position: relative;
+  cursor: pointer;
+}
+
+.weaponOverlay{
+  position: absolute;
+  background-color: rgb(46, 39, 39);
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  opacity: 0;
+  transition: opacity .3s;
+  display: grid;
+  grid-template-columns: 105px 105px;
+  
+
+}
+
+.weaponBox:hover .weaponOverlay{
+  opacity: 1;
+}

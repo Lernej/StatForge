@@ -1,0 +1,274 @@
+[
+  {
+    "name": "Axe of Godrick",
+    "strength": 34,
+    "dexterity": 22,
+    "faith": 0,
+    "arcane": 0,
+    "intelligence": 0,
+    "image": "/weapon-images/axe_of_godrick.png",
+    "scaling": {
+      "strength": "D",
+      "dexterity": "D",
+      "faith": "-",
+      "arcane": "-",
+      "intelligence": "-"
+    }
+  },
+  {
+    "name": "Grafted Dragon",
+    "strength": 20,
+    "dexterity": 14,
+    "faith": 16,
+    "arcane": 0,
+    "intelligence": 0,
+    "image": "/weapon-images/grafted_dragon.png",
+    "scaling": {
+      "strength": "D",
+      "dexterity": "D",
+      "faith": "D",
+      "arcane": "-",
+      "intelligence": "-"
+    }
+  },
+  {
+    "name": "Carian Regal Scepter",
+    "strength": 8,
+    "dexterity": 10,
+    "faith": 0,
+    "arcane": 0,
+    "intelligence": 60,
+    "image": "/weapon-images/carian_regal_scepter.png",
+    "scaling": {
+      "strength": "E",
+      "dexterity": "E",
+      "faith": "-",
+      "arcane": "-",
+      "intelligence": "B"
+    }
+  },
+  {
+    "name": "Starscourge Greatsword",
+    "strength": 38,
+    "dexterity": 12,
+    "faith": 0,
+    "arcane": 0,
+    "intelligence": 15,
+    "image": "/weapon-images/starscourge_greatsword.png",
+    "scaling": {
+      "strength": "D",
+      "dexterity": "D",
+      "faith": "-",
+      "arcane": "-",
+      "intelligence": "E"
+    }
+  },
+  {
+    "name": "Morgott's Cursed Sword",
+    "strength": 14,
+    "dexterity": 35,
+    "faith": 0,
+    "arcane": 17,
+    "intelligence": 0,
+    "image": "/weapon-images/morgotts_cursed_sword.png",
+    "scaling": {
+      "strength": "E",
+      "dexterity": "C",
+      "faith": "-",
+      "arcane": "D",
+      "intelligence": "-"
+    }
+  },
+  {
+    "name": "Sacred Relic Sword",
+    "strength": 14,
+    "dexterity": 24,
+    "faith": 22,
+    "arcane": 0,
+    "intelligence": 0,
+    "image": "/weapon-images/sacred_relic_sword.png",
+    "scaling": {
+      "strength": "E",
+      "dexterity": "D",
+      "faith": "D",
+      "arcane": "-",
+      "intelligence": "-"
+    }
+  },
+  {
+    "name": "Blasphemous Blade",
+    "strength": 22,
+    "dexterity": 15,
+    "faith": 21,
+    "arcane": 0,
+    "intelligence": 0,
+    "image": "/weapon-images/blasphemous_blade.png",
+    "scaling": {
+      "strength": "D",
+      "dexterity": "D",
+      "faith": "D",
+      "arcane": "-",
+      "intelligence": "-"
+    }
+  },
+  {
+    "name": "Maliketh's Black Blade",
+    "strength": 34,
+    "dexterity": 12,
+    "faith": 20,
+    "arcane": 0,
+    "intelligence": 0,
+    "image": "/weapon-images/malikeths_black_blade.png",
+    "scaling": {
+      "strength": "C",
+      "dexterity": "E",
+      "faith": "D",
+      "arcane": "-",
+      "intelligence": "-"
+    }
+  },
+  {
+    "name": "Lion Greatbow",
+    "strength": 22,
+    "dexterity": 18,
+    "faith": 0,
+    "arcane": 0,
+    "intelligence": 0,
+    "image": "/weapon-images/lion_greatbow.png",
+    "scaling": {
+      "strength": "D",
+      "dexterity": "D",
+      "faith": "-",
+      "arcane": "-",
+      "intelligence": "-"
+    }
+  },
+  {
+    "name": "Axe of Godfrey",
+    "strength": 42,
+    "dexterity": 14,
+    "faith": 0,
+    "arcane": 0,
+    "intelligence": 0,
+    "image": "/weapon-images/axe_of_godfrey.png",
+    "scaling": {
+      "strength": "D",
+      "dexterity": "D",
+      "faith": "-",
+      "arcane": "-",
+      "intelligence": "-"
+    }
+  },
+  {
+    "name": "Hand of Malenia",
+    "strength": 16,
+    "dexterity": 48,
+    "faith": 0,
+    "arcane": 0,
+    "intelligence": 0,
+    "image": "/weapon-images/hand_of_malenia.png",
+    "scaling": {
+      "strength": "E",
+      "dexterity": "C",
+      "faith": "-",
+      "arcane": "-",
+      "intelligence": "-"
+    }
+  },
+  {
+    "name": "Winged Greathorn",
+    "strength": 30,
+    "dexterity": 20,
+    "faith": 0,
+    "arcane": 0,
+    "intelligence": 0,
+    "image": "/weapon-images/winged_greathorn.png",
+    "scaling": {
+      "strength": "D",
+      "dexterity": "D",
+      "faith": "-",
+      "arcane": "-",
+      "intelligence": "-"
+    }
+  },
+  {
+    "name": "Bastard's Stars",
+    "strength": 8,
+    "dexterity": 22,
+    "faith": 0,
+    "arcane": 0,
+    "intelligence": 22,
+    "image": "/weapon-images/bastards_stars.png",
+    "scaling": {
+      "strength": "E",
+      "dexterity": "D",
+      "faith": "-",
+      "arcane": "-",
+      "intelligence": "C"
+    }
+  },
+  {
+    "name": "Dragon King's Cragblade",
+    "strength": 18,
+    "dexterity": 37,
+    "faith": 0,
+    "arcane": 0,
+    "intelligence": 0,
+    "image": "/weapon-images/dragon_kings_cragblade.png",
+    "scaling": {
+      "strength": "E",
+      "dexterity": "D",
+      "faith": "-",
+      "arcane": "-",
+      "intelligence": "-"
+    }
+  },
+  {
+    "name": "Marika's Hammer",
+    "strength": 20,
+    "dexterity": 12,
+    "faith": 19,
+    "arcane": 0,
+    "intelligence": 0,
+    "image": "/weapon-images/marikas_hammer.png",
+    "scaling": {
+      "strength": "D",
+      "dexterity": "D",
+      "faith": "D",
+      "arcane": "-",
+      "intelligence": "-"
+    }
+  },
+  {
+    "name": "Giant's Red Braid",
+    "strength": 18,
+    "dexterity": 12,
+    "faith": 21,
+    "arcane": 0,
+    "intelligence": 0,
+    "image": "/weapon-images/giants_red_braid.png",
+    "scaling": {
+      "strength": "D",
+      "dexterity": "D",
+      "faith": "D",
+      "arcane": "-",
+      "intelligence": "-"
+    }
+  },
+  {
+    "name": "Mohgwyn's Sacred Spear",
+    "strength": 24,
+    "dexterity": 14,
+    "faith": 0,
+    "arcane": 27,
+    "intelligence": 0,
+    "image": "/weapon-images/mohgwyns_sacred_spear.png",
+    "scaling": {
+      "strength": "D",
+      "dexterity": "E",
+      "faith": "-",
+      "arcane": "D",
+      "intelligence": "-"
+    }
+  }
+]
